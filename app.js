@@ -134,6 +134,3 @@ $(document).ready(function(){
   CalorControl.init();
 });
 
-
-
-
